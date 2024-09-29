@@ -1,6 +1,6 @@
 {
     "name": "DFRobot_loRaWANNodeModule",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Gravity: LoRaWAN Node Module",
     "license": "MIT",
     "dependencies": {
